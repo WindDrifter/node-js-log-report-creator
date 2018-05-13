@@ -1,0 +1,1 @@
+# node-js-log-report-creator
